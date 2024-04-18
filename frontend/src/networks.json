@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "chainId": "0x1"
+    },
+    {
+        "name": "Binance Smart Chain",
+        "symbol": "BNB",
+        "chainId": "0x38"
+    },
+    {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "chainId": "0x89"
+    }
+]
